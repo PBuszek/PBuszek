@@ -1,12 +1,12 @@
 <h1 align="center">Hi, I'm Przemysław Buszek</h1>
-<h3 align="center">A junior fullstack developer from Poland</h3>
+<h3 align="center">Junior fullstack developer</h3>
 
 
 
 
 - 🔨 Currently working on [Game with 5 other team mates](https://github.com/piotrmludzik/GeekOfPlanets)
 
-- 📫 Contact: **przemek.buszek@onet.eu**
+- ✉ Contact: **przemek.buszek@onet.eu**
 
 - 💬 Languages: 🇵🇱,🇬🇧,🇩🇪,🇮🇹 in progres: 🇷🇺,🇪🇸
 
