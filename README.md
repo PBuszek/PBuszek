@@ -52,12 +52,7 @@
     <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40"                height="40"/> </a>
     <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40"      height="40"/> </a>
     </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-  </p>
-    <h5 align="left">Wiling to learn</h5>
-    <p>
-      <a href="https://vuejs.org/" target="_blank"> <img src="https://vuejs.org/images/logo.png" alt="vue" width="40"height="40"/> </a>
-      <a href="https://reactjs.org/" target="_blank"> <img src="https://chop-chop.org/app/uploads/2019/05/logo-react-blue-1.svg" alt="reactjs" width="40"height="40"/> </a>
-  </p>
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=PBuszek&label=Profile%20views&color=0e75b6&style=flat" alt="PBuszek" /> 
 </p>
