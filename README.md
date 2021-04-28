@@ -4,9 +4,9 @@
 
 
 
-- 🔭 I’m currently working on [Game with 5 other team mates](https://github.com/piotrmludzik/GeekOfPlanets)
+- 🔨 Currently working on [Game with 5 other team mates](https://github.com/piotrmludzik/GeekOfPlanets)
 
-- 📫 Feel free to reach me **przemek.buszek@onet.eu**
+- 📫 Contact: **przemek.buszek@onet.eu**
 
 - 💬 Languages: 🇵🇱,🇬🇧,🇩🇪,🇮🇹 in progres: 🇷🇺,🇪🇸
 
@@ -14,11 +14,11 @@
 <p align="left">
   <h4 align="left">Specialization</h4>
   <p>
-    <a href="https://www.java.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40"           height="40"/> </a>
+    <a href="https://www.java.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45"           height="45"/> </a>
   <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
   </p>
   <h5 align="left">Languages</h5>
-    <a href="https://www.python.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg" alt="java" width="40" height="40"/> </a>
+    <a href="https://www.python.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg" alt="java" width="45" height="45"/> </a>
   </p>
 
     
