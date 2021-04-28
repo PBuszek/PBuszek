@@ -4,7 +4,7 @@
 
 
 
-- 🔨 Currently working on [Game with 5 other team mates](https://github.com/piotrmludzik/GeekOfPlanets)
+- 🔨 Currently working on [Inetrnet browser game](https://github.com/piotrmludzik/GeekOfPlanets)
 
 - ✉ Contact: **przemek.buszek@onet.eu**
 
